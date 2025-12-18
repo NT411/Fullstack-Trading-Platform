@@ -4,8 +4,10 @@ A **full-stack trading simulation demo** with an integrated **CRM**.
 Built using **Node.js, Express, MongoDB**, and a **vanilla JavaScript** frontend.
 
 > ⚠️ **Disclaimer**  
-> This is **NOT** a real trading platform. It is a demo for learning and fun, and it has **many security issues**.  
-> Do **NOT** deploy it in production.  
+This project is for educational and demonstration purposes only.
+
+In some countries (including Bulgaria), fake trading platforms are commonly used in scams.
+This repository explicitly does not provide real trading, investment advice, or payment processing, and must not be deployed or used with real users or funds.
 
 
 ---
