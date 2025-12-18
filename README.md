@@ -6,7 +6,7 @@ Built using **Node.js, Express, MongoDB**, and a **vanilla JavaScript** frontend
 > ⚠️ **Disclaimer**  
 > This is **NOT** a real trading platform. It is a demo for learning and fun, and it has **many security issues**.  
 > Do **NOT** deploy it in production.  
-> If you try to present this as an official financial application — **you could go to jail.**
+
 
 ---
 
